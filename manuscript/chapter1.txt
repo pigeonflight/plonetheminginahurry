@@ -1,3 +1,7 @@
 # Chapter 1
 
-Hello! Is this thing on?
+This book assumes that your using Plone 4.2 or newer, most examples will use Plone 4.3, the stable version at the time.
+This chapter will walk you through the process of getting a Plone site up and running.
+
+To get started you won't need to know anything about Plone, Linux, system administration or brain surgery.
+
