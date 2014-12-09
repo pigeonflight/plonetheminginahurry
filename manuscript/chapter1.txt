@@ -1,7 +1,8 @@
 # Chapter 1
 
-This book assumes that your using Plone 4.2 or newer, most examples will use Plone 4.3, the stable version at the time.
+This book assumes that you're using Plone 4.2 or newer, most examples will use Plone 4.3, the stable version at the time.
 This chapter will walk you through the process of getting a Plone site up and running.
 
 To get started you won't need to know anything about Plone, Linux, system administration or brain surgery.
 
+Note: We have chosen a cloud based approach. There are other ways to get Plone installed. You could install it on your local machine or on a server that you own. We think that the cloud approach requires less experience and is generally painless.
