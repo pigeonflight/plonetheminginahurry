@@ -1,5 +1,5 @@
 # Preface
 
-{FrontMatter}
-
 ## Who is this book for?
+
+Here we say who the book is for
