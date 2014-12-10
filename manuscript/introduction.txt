@@ -2,3 +2,5 @@
 # Introduction
 
 You'll want to know stuff about this
+
+Plone theming is really Diazo theming, while it is deeply integrated into Plone, Diazo has been used to theme other web applications including other content management systems. For the majority of the document, the only assumption is that you have a good understanding of HTML document structure, use of CSS selectors and can follow instructions. Familiarity with Plone administration will be helpful for the latter steps. This document will quickly get you started with Plone theming. 
