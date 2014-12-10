@@ -1,3 +1,4 @@
+{mainmatter}
 # Chapter 1
 
 This book assumes that you're using Plone 4.2 or newer, most examples will use Plone 4.3, the stable version at the time.
